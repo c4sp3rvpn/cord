@@ -1,0 +1,11 @@
+{
+    "cordova-plugin-yandexnavi": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/c4sp3rvpn/cordova-plugin-yandexnavi.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
